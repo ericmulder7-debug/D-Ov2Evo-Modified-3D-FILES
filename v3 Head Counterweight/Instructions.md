@@ -20,7 +20,7 @@ After printing, fill the main frame with 1-1.5kg of ballast and pour with epoxy.
 
 Add square nuts to all the holes in main frame, top frame and pendulum, and secure with hot glue.
 
-Set the pendulum aside, assemble servo and servo base, insert into main frame. Make sure the servo gear is at zero before you proceed.
+Set the pendulum aside, assemble servo and servo base, insert into main frame. Make sure the servo gear is centered (i.e. at 180°) before you proceed.
 
 Add the main bar and side panels with the large bearings. Now put the pendulum underneath the main bar into the cutout in the main frame and screw it on.
 
